@@ -6,7 +6,7 @@
 > 热衷于软件开发行业，具有 7 年开发经验和 1 年实习经验，同时具备大型项目经验和项目管理经验。目前担任 Server Leader，具有良好的团队协作和沟通能力
 
 ## 个人信息
-姓名：徐士宽
+姓名：徐士宽(Gosling)
 
 ## 联系方式
 邮箱：heixiushamao@gmail.com
@@ -106,7 +106,10 @@
   - [x] 完成财政票据相关报表
   - [x] 完成学校端集中汇缴子系统，实现票据申请，入库，销毁，开票，报表查询，组织配置等功能
 
-## 最后
+## 致谢
+谨在此向所有在我求职过程中帮助过我的小伙伴们表示感谢！
+  
+<!-- ## 最后
 如果你觉得我的简历还不错的话，通过支付宝打赏我
 
 <img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/weixin.jpg" alt="微信捐赠" title="微信捐赠" />
@@ -120,7 +123,8 @@
 #### 彩蛋? :blush:
 [前端面试题库](https://github.com/yangjunlong/resume/wiki)
 
-## 致谢
-谨在此向所有在我求职过程中帮助过我的小伙伴们表示感谢！
+
 
 如果你对此简历有任何问题，欢迎提[issue](https://github.com/yangjunlong/resume/issues)。
+
+-->
