@@ -49,9 +49,9 @@
 
 ## 项目经验
 
-- `July 2017` ~ `Present` Mozat
-  > Deja(Ongoing)
+>  Mozat
 
+   - Deja(Ongoing) `July 2017` ~ `Present`
 		- [x] 相关技术: `Java`,`Golang`,`Spring Boot`,`String Cloud`,`JPA`,`Kafka`,`Redis`,`Elasticsearch`,`ELK`,`Consul`,`Docker`
 		- [x] 完成 Deja 项目微服务架构设计
 		- [x] 将核心业务向 Go 技术栈迁移
@@ -66,13 +66,14 @@
 		- [x] 在整个项目生命周期过程中，维护软件程序，根据相关规范处理各种程序变更，修复后续测试中发现的任何程序缺陷，确保软件程序符合系统设计要求
 		- [x] 从程序开发角度，协助所属项目或任务的系统设计，并参与其评审
 		- [x] 指导开发工程师的工作并参与规范的开发
-    > go-router(Ongoing)
-
+    
+  - go-router(Ongoing) `July 2017` ~ `Present`
 		- [x] 相关技术: `Golang`,`Consul`,`Docker`
 		- [x] 开发对 Golang 向 Consul 注册的封装工作
 		- [x] 开发 Golang 项目健康检查接口
 		- [x] 完成基于负载感知的数据流动态负载均衡策略
 		- [x] 实现基于 Router 级别的熔断功能
+
 - `July 2017` ~ `Present` 平安科技
   > 知鸟
 
@@ -93,7 +94,7 @@
 		- [x] 封装 Activiti 流程引擎，减少流程开发成本
 - `July 2017` ~ `Present` 东软
   >  非税收入收缴管理系统
-  
+
 		- [x] 相关技术: `Java`,`SpringMVC`,`Mybatis`
 		- [x] 开发财政基础数据模块
 		- [x] 开发票据管理模块，实现财政厅对票据的印刷，入库，发放，销毁等管理
