@@ -4,16 +4,18 @@
 
 ## 自我介绍
 > 热衷于软件开发行业，具有 7 年开发经验和 1 年实习经验，同时具备大型项目经验和项目管理经验。目前担任 Server Leader，具有良好的团队协作和沟通能力
+
 ## 个人信息
 姓名：徐士宽
 
-职业：`Server Leader` · `新加坡`
-
+## 联系方式
+邮箱：heixiushamao@gmail.com
+职业：`高级软件开发工程师` · `新加坡`
+<del>博客：[http://sobird.me](http://sobird.me)</del>
 ## 工作经历
 
-
-### Mozat `Singapore` 
-> Server Leader `July 2017` ~ `Present` 
+### Mozat `Singapore`
+> Server Leader `July 2017` ~ `Present`
 ```
 主要负责对 Deja 项目的研发工作，搭建 Deja 平台在线购买架构，完成公司整体业务架构向微服务架
 构的转换。完成部分业务的读写分离工作。完成公司基础服务从 Java 项目向 Golang 项目的转换工作。
@@ -82,6 +84,11 @@
 * 熟练操作`Linux`系统，通过WEB日志快速定位问题
 * 熟练使用`AngularJS`构建SPA(单页面应用)后台系统，开发了框架:[mix-dashboard](https://yangjunlong.github.io/mix-dashboard/)
 * 具有团队文档平台建设经验，对前端开发代码`规范化`、`平台化`、`工具化`有一定的探索能力。
+
+## 个人技术栈
+* 编程语言:`Java`, `Golang`, `Groovy`
+* 技术框架:`Spring Cloud`,`Spring Boot`,`SpringMVC`,`JPA`,`Hibernate`,`Mybatis`,`Spark`,`JUnit`,`Mysql`,`Oracle`,`ELK`,`KAFKA`,`Redis`,`Docker`,`Activiti`,`Consul`
+* 相关工具:`Maven`,`Gradle`,`Jenkins`,`Slack`,`AWS`,`Gitlab`,`SVN`,`Jira`,`Trello`,`Confluenct`
 
 ## 项目经历
 **58品质公寓项目**(2015.12 ~ 2016.1)
@@ -160,10 +167,9 @@
 
 ---
 
-## 联系方式
-邮箱：heixiushamao@gmail.com
 
-博客：[http://sobird.me](http://sobird.me)
+
+
 
 ## 最后
 如果你觉得我的简历还不错的话，通过支付宝打赏我
