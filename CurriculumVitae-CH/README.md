@@ -61,7 +61,7 @@
 	- [x] 负责项目前端架构，模块化，组件化，组员按模块负责并行开发
 
 - `July 2017` ~ `Present` Mozat
-  - Deja(Ongoing)
+  - [x] Deja(Ongoing)
 		- [x] 相关技术: `Java`,`Golang`,`Spring Boot`,`String Cloud`,`JPA`,`Kafka`,`Redis`,`Elasticsearch`,`ELK`,`Consul`,`Docker`
 		- [x] 完成 Deja 项目微服务架构设计
 		- [x] 将核心业务向 Go 技术栈迁移
@@ -76,7 +76,7 @@
 		- [x] 在整个项目生命周期过程中，维护软件程序，根据相关规范处理各种程序变更，修复后续测试中发现的任何程序缺陷，确保软件程序符合系统设计要求
 		- [x] 从程序开发角度，协助所属项目或任务的系统设计，并参与其评审
 		- [x] 指导开发工程师的工作并参与规范的开发
-  - go-router(Ongoing)
+  - [x] go-router(Ongoing)
 		- [x] 相关技术: `Golang`,`Consul`,`Docker`
 		- [x] 开发对 Golang 向 Consul 注册的封装工作
 		- [x] 开发 Golang 项目健康检查接口
@@ -84,7 +84,7 @@
 		- [x] 实现基于 Router 级别的熔断功能
 - `July 2017` ~ `Present` 平安科技
   - 知鸟
-		- [x] 相关技术: ’Java,SpringMVC,Mybatis,KAFKA,Elasticsearch,Redis’
+		- [x] 相关技术: `Java`,`SpringMVC`,`Mybatis`,`KAFKA`,`Elasticsearch`,`Redis`
 		- [x] 开发组织模块，对接平安集团组织数据，提供第三方企业上传组织数据接口，通过 KAFKA 实现异步同步功能。
 		- [x] 开发课程模块，实现企业自定义课程维护。根据先关配置，自动同步到相关组件中
 		- [x] 开发问券模块，实现企业自定义问券调查，并根据配置同步到相关组织中
