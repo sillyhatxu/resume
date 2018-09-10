@@ -49,7 +49,6 @@
 
 ## 项目经验
 
-
 - `July 2017` ~ `Present` Mozat Singapore Server Leader
     - [x] 负责小米钱包，话费充值、生活缴费等应用开发
     - [x] 封装小米钱包Hybrid jssdk基础库
