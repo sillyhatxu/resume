@@ -76,7 +76,7 @@
   	- [x] 实现基于 Router 级别的熔断功能
 
 
-> 平安科技
+
 
 - 知鸟 `July 2017` ~ `Present`
 		- [x] 相关技术: `Java`,`SpringMVC`,`Mybatis`,`KAFKA`,`Elasticsearch`,`Redis`
