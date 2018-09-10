@@ -49,52 +49,56 @@
 
 ## 项目经验
 
->  Mozat
+> Mozat
 
-   - Deja(Ongoing) `July 2017` ~ `Present`
-		- [x] 相关技术: `Java`,`Golang`,`Spring Boot`,`String Cloud`,`JPA`,`Kafka`,`Redis`,`Elasticsearch`,`ELK`,`Consul`,`Docker`
-		- [x] 完成 Deja 项目微服务架构设计
-		- [x] 将核心业务向 Go 技术栈迁移
-		- [x] Eureka 转换 Consul
-		- [x] 通过 Kafka 异步方式同步数据（9000W），并上传 Elasticsearch
-		- [x] 开发支付接口（对接 Stripe）
-		- [x] 通过扫描收据图像识别客户购买服装
-		- [x] 搭建 ELK，KAFKA，Redis，CI（Jenkins）环境（docker 方式 docker stack deploy）
-		- [x] 引入 Spark 进行单元测试，形成标准化的软件代码和单元测试文档
-		- [x] 标准化 AWS 权限
-		- [x] 组织相关人员进行代码走读和单元测试，对发现的问题及时与系统设计及其他相关人员协商解决，并及时将走读及编译和单元测试通过的软件代码纳入配置管理
-		- [x] 在整个项目生命周期过程中，维护软件程序，根据相关规范处理各种程序变更，修复后续测试中发现的任何程序缺陷，确保软件程序符合系统设计要求
-		- [x] 从程序开发角度，协助所属项目或任务的系统设计，并参与其评审
-		- [x] 指导开发工程师的工作并参与规范的开发
-    
-  - go-router(Ongoing) `July 2017` ~ `Present`
-		- [x] 相关技术: `Golang`,`Consul`,`Docker`
-		- [x] 开发对 Golang 向 Consul 注册的封装工作
-		- [x] 开发 Golang 项目健康检查接口
-		- [x] 完成基于负载感知的数据流动态负载均衡策略
-		- [x] 实现基于 Router 级别的熔断功能
+ - Deja(Ongoing) `July 2017` ~ `Present`
+  	- [x] 相关技术: `Java`,`Golang`,`Spring Boot`,`String Cloud`,`JPA`,`Kafka`,`Redis`,`Elasticsearch`,`ELK`,`Consul`,`Docker`
+  	- [x] 完成 Deja 项目微服务架构设计
+  	- [x] 将核心业务向 Go 技术栈迁移
+  	- [x] Eureka 转换 Consul
+  	- [x] 通过 Kafka 异步方式同步数据（9000W），并上传 Elasticsearch
+  	- [x] 开发支付接口（对接 Stripe）
+  	- [x] 通过扫描收据图像识别客户购买服装
+  	- [x] 搭建 ELK，KAFKA，Redis，CI（Jenkins）环境（docker 方式 docker stack deploy）
+  	- [x] 引入 Spark 进行单元测试，形成标准化的软件代码和单元测试文档
+  	- [x] 标准化 AWS 权限
+  	- [x] 组织相关人员进行代码走读和单元测试，对发现的问题及时与系统设计及其他相关人员协商解决，并及时将走读及编译和单元测试通过的软件代码纳入配置管理
+  	- [x] 在整个项目生命周期过程中，维护软件程序，根据相关规范处理各种程序变更，修复后续测试中发现的任何程序缺陷，确保软件程序符合系统设计要求
+  	- [x] 从程序开发角度，协助所属项目或任务的系统设计，并参与其评审
+  	- [x] 指导开发工程师的工作并参与规范的开发
 
-- `July 2017` ~ `Present` 平安科技
-  > 知鸟
 
+- go-router(Ongoing) `July 2017` ~ `Present`
+  	- [x] 相关技术: `Golang`,`Consul`,`Docker`
+  	- [x] 开发对 Golang 向 Consul 注册的封装工作
+  	- [x] 开发 Golang 项目健康检查接口
+  	- [x] 完成基于负载感知的数据流动态负载均衡策略
+  	- [x] 实现基于 Router 级别的熔断功能
+
+
+> 平安科技
+
+- 知鸟 `July 2017` ~ `Present`
 		- [x] 相关技术: `Java`,`SpringMVC`,`Mybatis`,`KAFKA`,`Elasticsearch`,`Redis`
 		- [x] 开发组织模块，对接平安集团组织数据，提供第三方企业上传组织数据接口，通过 KAFKA 实现异步同步功能。
 		- [x] 开发课程模块，实现企业自定义课程维护。根据先关配置，自动同步到相关组件中
 		- [x] 开发问券模块，实现企业自定义问券调查，并根据配置同步到相关组织中
 		- [x] 开发考试模块，实现企业自定义考试功能，根据配置，同步到相关组织中
 		- [x] 参与需求评审，根据需求完成设计并分配工作
-- `July 2017` ~ `Present` MPOS
-  > M.Lottery
 
+> MPOS
+
+  - M.Lottery `July 2017` ~ `Present`
 		- [x] 相关技术: `Java`,`Flex`,`Activiti`,`Hibernate`,`Redis`
 		- [x] 开发彩票基础数据部分
 		- [x] 开发彩票不同玩法 Lotto，IG，Toto，Raffle，5/90，Magic 100，Digit，Bingo，Lucky Draw，Pick3
 		- [x] 开发彩票数据报表
 		- [x] 根据录入派彩结果和相关配置，计算中奖人员名单并计算奖金
 		- [x] 封装 Activiti 流程引擎，减少流程开发成本
-- `July 2017` ~ `Present` 东软
-  >  非税收入收缴管理系统
 
+> 东软
+
+  - 非税收入收缴管理系统 `July 2017` ~ `Present`
 		- [x] 相关技术: `Java`,`SpringMVC`,`Mybatis`
 		- [x] 开发财政基础数据模块
 		- [x] 开发票据管理模块，实现财政厅对票据的印刷，入库，发放，销毁等管理
